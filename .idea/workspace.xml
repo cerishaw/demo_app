@@ -32,10 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile.lock" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile.lock" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="22" selection-start="2269" selection-end="2269" vertical-scroll-proportion="0.33294255">
+            <state line="111" column="36" selection-start="2723" selection-end="2723" vertical-scroll-proportion="-20.2">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="7" selection-start="254" selection-end="254" vertical-scroll-proportion="0.36788154">
               <folding />
             </state>
           </provider>
@@ -53,6 +62,7 @@
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/Gemfile.lock" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -354,7 +364,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="22" selection-start="2269" selection-end="2269" vertical-scroll-proportion="0.33294255">
+        <state line="111" column="36" selection-start="2723" selection-end="2723" vertical-scroll-proportion="-20.2">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="7" selection-start="254" selection-end="254" vertical-scroll-proportion="0.36788154">
           <folding />
         </state>
       </provider>
